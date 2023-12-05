@@ -1,6 +1,6 @@
 # roll_dice
 
-A new Flutter project.
+A roll dice  Flutter project.
 
 ## Getting Started
 
